@@ -1,3 +1,4 @@
+
 class CO4{
     private int x;  //Instance Variable
     public void set(int a)  {
